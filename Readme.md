@@ -2,19 +2,6 @@
 
 https://github.com/davidnunez/I-AM
 
-## Files
-### iam.c
-
-Human-readable, with comments.
-
-### iam_no_comments.c
-
-Human-readable, without comments.
-
-### iam_obfuscated.c
-
-Obfuscated, with comments.
-
 ## Compilation
 
 All source files complile via `[clang, gcc] <file>`.
